@@ -3,4 +3,4 @@
 ## 📂 Solutions Included
 | Challenge Name | Platform | Solution Link | Complexity |
 | :--- | :--- | :--- | :--- |
-| [Two Sum](.https://leetcode.com/problems/two-sum) | LeetCode | [View Code](./TwoSum.c) | O(n^2) |
+| [Two Sum](https://leetcode.com/problems/two-sum/description/) | LeetCode | [View Code](./TwoSum.c) | O(n^2) |
